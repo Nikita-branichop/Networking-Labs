@@ -24,3 +24,4 @@ Reply from 192.168.1.2: bytes=32 time<1ms TTL=128
 Reply from 192.168.1.2: bytes=32 time<1ms TTL=128
 Ping statistics for 192.168.1.2:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+<img width="872" height="885" alt="image" src="https://github.com/user-attachments/assets/85d55804-bddf-43e8-9c80-20eec9ff7276" />
