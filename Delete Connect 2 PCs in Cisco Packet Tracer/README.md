@@ -1,6 +1,3 @@
-# My Networking Lab Portfolio
-Welcome to my networking journey! Here I document my hands-on practice and projects as I work towards becoming a System Administrator.
-
 ## Project 1: Peer-to-Peer (P2P) Connection
 **Date:** April 4, 2026
 **Tool:** Cisco Packet Tracer
@@ -19,9 +16,16 @@ I successfully verified the connection by using the `ping` command from PC0 to P
 
 **Command Output:**
 ```text
-Pinging 192.168.1.2 with 32 bytes of data:
-Reply from 192.168.1.2: bytes=32 time<1ms TTL=128
-Reply from 192.168.1.2: bytes=32 time<1ms TTL=128
-Ping statistics for 192.168.1.2:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+Pinging 192.168.1.1 with 32 bytes of data:
+
+Reply from 192.168.1.1: bytes=32 time=6ms TTL=128
+Reply from 192.168.1.1: bytes=32 time=2ms TTL=128
+Reply from 192.168.1.1: bytes=32 time<1ms TTL=128
+Reply from 192.168.1.1: bytes=32 time=4ms TTL=128
+
+Ping statistics for 192.168.1.1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 6ms, Average = 3ms
+```
 <img width="872" height="885" alt="image" src="https://github.com/user-attachments/assets/85d55804-bddf-43e8-9c80-20eec9ff7276" />
