@@ -13,3 +13,6 @@
 
 ### Status: 
 ✅ Success. All PCs can now communicate across different subnets.
+
+<img width=49% height="600" alt="image" src="https://github.com/user-attachments/assets/33f7e958-2125-422f-848d-d41b1800874e" />
+<img width=49% height="600" alt="image" src="https://github.com/user-attachments/assets/4552883b-4c93-4d49-bb6d-11512967406f" />
